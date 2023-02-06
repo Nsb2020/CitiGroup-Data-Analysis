@@ -1,1 +1,5 @@
-# CitiGroup-Data-Analysis
+#  CitiGroup-Data-Analysis
+
+## Project Overview
+
+* LIST
