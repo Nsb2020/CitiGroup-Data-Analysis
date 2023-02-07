@@ -22,4 +22,5 @@ Below are what the columns of the data represent:
 * Adjusted Closed: refers to the close price of stocks after paying a dividend.
 * High: It is the highest price at which a stock trades during the course of the trading day.
 * Low: It is the lowest price at which a stock trades during the course of the trading day.
-* Volume: 
+* Volume: Volume is counted as the total number of shares that are actually traded (bought and sold) during the trading day.
+* Return: The "return" is the positive or negative change in value or volume of a stock over the closing trade period.
