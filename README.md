@@ -31,3 +31,6 @@ Below are what the columns of the data represent:
 * Low: It is the lowest price at which a stock trades during the course of the trading day.
 * Volume: Volume is counted as the total number of shares that are actually traded (bought and sold) during the trading day.
 * Return: The "return" is the positive or negative change in value or volume of a stock over the closing trade period.
+
+
+[Link to the notebook](https://github.com/Nsb2020/CitiGroup-Data-Analysis/blob/main/CITI_STOCK_ANALYIS.ipynb)
