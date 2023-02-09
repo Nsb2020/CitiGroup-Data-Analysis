@@ -2,7 +2,12 @@
 #### About Citigroup:
 Citigroup Inc. or Citi (stylized as citi) is an American multinational investment bank and financial services corporation headquartered in New York City, USA.
 Citigroup is the third largest banking institution in the United States; alongside JPMorgan Chase, Bank of America, and Wells Fargo, it is one of the Big Four banking institutions of the United States. It is considered a systemically important bank by the Financial Stability Board and is commonly cited as being too big to fail. It is one of the nine global investment banks in the Bulge Bracket.
-<img src="https://github.com/Nsb2020/Data-Science-Project/blob/main/CITI.png" alt="Citigroup" width="400" height="150">
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+<img src="https://github.com/Nsb2020/Data-Science-Project/blob/main/CITI.png" alt="Citigroup" style="width:25%;">
 
 ## Project Objectives
 This project was aimed at extensively analyzing Citigroup stock market prices. and to gain an understanding that was used to answer the following questions. 
@@ -12,7 +17,6 @@ This project was aimed at extensively analyzing Citigroup stock market prices. a
 * What day of the week, and what month has the highest stock trade volume?
 * What was the correlation between daily returns and volume traded?
 * How did Citigroup perform during the time period under consideration?
-![alt text](https://github.com/Nsb2020/CitiGroup-Data-Analysis/blob/main/CTG.jfif)
 
 
 # Data
