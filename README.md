@@ -2,6 +2,7 @@
 #### About Citigroup:
 Citigroup Inc. or Citi (stylized as citi) is an American multinational investment bank and financial services corporation headquartered in New York City, USA.
 Citigroup is the third largest banking institution in the United States; alongside JPMorgan Chase, Bank of America, and Wells Fargo, it is one of the Big Four banking institutions of the United States. It is considered a systemically important bank by the Financial Stability Board and is commonly cited as being too big to fail. It is one of the nine global investment banks in the Bulge Bracket.
+![alt text](image.jpg)
 
 ## Project Objectives
 This project was aimed at extensively analyzing Citigroup stock market prices. and to gain an understanding that was used to answer the following questions. 
