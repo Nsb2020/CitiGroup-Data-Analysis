@@ -32,5 +32,13 @@ Below are what the columns of the data represent:
 * Volume: Volume is counted as the total number of shares that are actually traded (bought and sold) during the trading day.
 * Return: The "return" is the positive or negative change in value or volume of a stock over the closing trade period.
 
+# Skills and Technologies
+* Programming (Python)
+* Data Analysis 
+* Exploratory Data Analysis
+* Data Visualization(Seaborn and Matplotlib)
+* Alphavantage API
+* Google Collobarotory Notebook
 
-[Link to the notebook](https://github.com/Nsb2020/CitiGroup-Data-Analysis/blob/main/CITI_STOCK_ANALYIS.ipynb)
+# Notebook
+The jupyter notebook containing all the code and exploratory data analysis can be found [here](https://github.com/Nsb2020/CitiGroup-Data-Analysis/blob/main/CITI_STOCK_ANALYIS.ipynb)
