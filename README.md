@@ -19,7 +19,7 @@ This project was aimed at extensively analyzing Citigroup stock market prices. a
 
 # Data
 The data used in this project was extracted from [the Alpha Vantage API](https://www.alphavantage.co/) using a unique API key.
-The data is extracted ("av-daily-adjusted") from January 1, 2012, to December 31, 2012.
+The data is extracted ("av-daily-adjusted") from January 1, 2012, to December 31, 2022.
 
 Below are what the columns of the data represent:
 * Open: Also known as the "open price," it is the price at which a financial security opens in the market when trading begins. It may or may not be different from the previous day's closing price.
