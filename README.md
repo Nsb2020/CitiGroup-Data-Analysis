@@ -2,11 +2,9 @@
 #### About Citigroup:
 Citigroup Inc. or Citi (stylized as citi) is an American multinational investment bank and financial services corporation headquartered in New York City, USA.
 Citigroup is the third largest banking institution in the United States; alongside JPMorgan Chase, Bank of America, and Wells Fargo, it is one of the Big Four banking institutions of the United States. It is considered a systemically important bank by the Financial Stability Board and is commonly cited as being too big to fail. It is one of the nine global investment banks in the Bulge Bracket.
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+
+
+
 <img src="https://github.com/Nsb2020/Data-Science-Project/blob/main/CITI.png" alt="Citigroup" style="width:25%;">
 
 ## Project Objectives
